@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Exceptions.ParametrosInvalidosException;
+
 public class Contador {
 	public static void main(String[] args) {
 
